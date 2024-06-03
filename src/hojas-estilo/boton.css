@@ -1,0 +1,40 @@
+.freecode-logo {
+  width: 600px;
+  height: 600px;
+  margin-top: 50px; /* Ajusta este valor según sea necesario */
+  margin-bottom: 50px; /* Ajusta este valor según sea necesario */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  width: 250px;
+  height: 80px;
+  font-size: 35px;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(216, 69, 69);
+}
+
+.boton-clic {
+  background-color: rgb(69, 216, 115);
+}
+
+.boton-reiniciar {
+  background-color: rgb(56, 63, 200);
+  color: rgb(7, 7, 7);
+}
+
+.contador-botones {
+  margin-top: 100px;
+  align-items: center;
+}
